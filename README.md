@@ -57,3 +57,5 @@ In detailed description of them:
    e. word2vec
 
 These all are pure mathematical topics, implement all of them at least once.
+
+Credit goes to @Akshat4112 for this
